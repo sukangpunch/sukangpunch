@@ -1,4 +1,4 @@
-## 끝-주-사 의 리드미!😀😀
+## 끝주사의readme!!😀😀
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldbs4746)](https://solved.ac/wldbs4746)
