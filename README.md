@@ -20,6 +20,8 @@
 
 ## Etc
 [![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://www.javascript.com)
+[![React](https://img.shields.io/badge/React-blue)](https://reactjs.org)
 
 
 
