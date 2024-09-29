@@ -17,6 +17,10 @@
 ## DataBase
 [![MySQL](https://img.shields.io/badge/MySQL-lightblue)](https://www.mysql.com)
 [![MariaDB](https://img.shields.io/badge/MariaDB-lightgrey)](https://mariadb.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)](https://www.mongodb.com)
+
+## OAuth
+[![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-red)](https://oauth.net/2/)
 
 ## Etc
 [![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org)
