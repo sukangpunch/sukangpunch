@@ -4,7 +4,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldbs4746)](https://solved.ac/wldbs4746)
 
 ## Stack
-### - Backend
+### Backend
 
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot)
